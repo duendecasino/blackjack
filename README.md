@@ -1,4 +1,4 @@
-<p align="center"><img width="45%"  src="https://i.ibb.co/NS3c1Tb/logo.png"></p>
+<p align="center"><img width="25%"  src="https://i.ibb.co/NS3c1Tb/logo.png"></p>
 
 
 ----
