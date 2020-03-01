@@ -209,6 +209,12 @@ body {
     window.parent.postMessage("resize", "*");
   }
 </script>
+<script type="text/javascript">
+function ini() {
+document.getElementById("gamiframe").width = document.frames.gamiframe.document.body.offsetWidth + document.frames.gamiframe.document.body.scrollWidth;
+document.getElementById("gamiframe").height = document.frames.gamiframe.document.body.offsetHeight + document.frames.gamiframe.document.body.scrollHeight;
+}
+</script> 
 </head>
 <body translate="no">
 <div id="wrapper">
