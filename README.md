@@ -25,13 +25,13 @@ La demostración del funcionamiento de online juego de blackjack
 Implement the game widget (English version) on a page of your website:
 
 ```
-<iframe id="iframe" tabindex="0" frameborder="0" scrolling="no" allowfullscreen="" src="https://duendecasino.github.io/blackjack/game.html" style="border: none; width: 100%; height: 780px;"></iframe>
+<iframe id="iframe" tabindex="0" frameborder="0" scrolling="no" allowfullscreen="" src="https://duendecasino.github.io/blackjack/game.html" style="border: none; width: 100%; height: 680px;"></iframe>
 ```
 
 Implementar el widget de juego (Versión español) en una pagina de tu sitio web:
 
 ```
-<iframe id="iframe" tabindex="0" frameborder="0" scrolling="no" allowfullscreen="" src="https://duendecasino.github.io/blackjack/juego.html" style="border: none; width: 100%; height: 780px;"></iframe>
+<iframe id="iframe" tabindex="0" frameborder="0" scrolling="no" allowfullscreen="" src="https://duendecasino.github.io/blackjack/juego.html" style="border: none; width: 100%; height: 680px;"></iframe>
 ```
 
 ## FREQUENTLY ASKED QUESTIONS
