@@ -36,24 +36,24 @@ Implementar el widget de juego (Versión español) en una pagina de tu sitio web
 
 ## FREQUENTLY ASKED QUESTIONS
 
-- ** Is it a real money online game? **
+- **Is it a real money online game?**
 
 No, it's just online demo game. Real money bets are not accepted.
 
 
-- ** Can I use the online game widget freely? **
+- **Can I use the online game widget freely?**
 
 Yes of course! You can implement the widget on any website for free.
 
-- ** Will the widget make my website slower? **
+- **Will the widget make my website slower?**
 
 Do not! The game contains little lines of code and runs in Github hosting.
 
-- ** The widget contains Casino Duende logo, will this harm my website? **
+- **The widget contains Casino Duende logo, will this harm my website?**
 
 No, absolutely! Logo and link has "nofollow" attribute and does not affect your website in any way.
 
-- ** Can I contribute? **
+- **Can I contribute?**
 
 By all means! But please, raise a problem first if it is more than a small change, to discuss the feasibility.
 
@@ -61,24 +61,24 @@ By all means! But please, raise a problem first if it is more than a small chang
 
 ## PREGUNTAS MÁS FRECUENTES
 
-- ** ¿Es un juego online de dinero real? **
+- **¿Es un juego online de dinero real?**
 
   No, es solo juego online de demostracion. No se aceptan las apuestas por dinero real.
 
 
-- ** ¿Puedo usar el widget de juego online libremente? **
+- **¿Puedo usar el widget de juego online libremente?**
 
   ¡Si, porsupuesto! Se puede emplear el widget en cualquier sitioweb de forma gratuita.
 
-- ** ¿El widget lo hara mi sitio web mas lento? **
+- **¿El widget lo hara mi sitio web mas lento?**
 
   ¡No! El juego contiene poco lineas de codigo y se ejecuta en alojamiento de Github.
 
-- ** El widget contiene logotipo de Casino Duende, ¿esto perjudicara mi sitio web? **
+- **El widget contiene logotipo de Casino Duende, ¿esto perjudicara mi sitio web?**
 
 ¡No, en absaluto! Logotipo y enlace tiene atributo "nofollow" y no afecta de ninguna manera su sitio web.  
 
-- ** ¿Puedo contribuir? **
+- **¿Puedo contribuir?**
 
  ¡Por todos los medios! Pero por favor, plantee un problema primero si es más que un pequeño cambio, para discutir la viabilidad.
 
