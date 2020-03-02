@@ -1,4 +1,4 @@
-<p align="center"><img width="25%"  src="https://i.ibb.co/NS3c1Tb/logo.png"></p>
+<p align="center"><img width="80%"  src="https://i.ibb.co/ky00s3T/casinoduende-blackjack-game.png"></p>
 
 
 ----
@@ -12,23 +12,33 @@ Un juego de Blackjack de JavaScript creado por Casino Duende
 
 -----
 
-### [Demo](https://casinoduende.com/en/blackjack/)
+### [Demo](https://duendecasino.github.io/blackjack/game.html)
 
 Working demo of online blackjack game
 
-### [Demo](https://casinoduende.com/blackjack/)
+### [Demo](https://duendecasino.github.io/blackjack/juego.html)
 
 La demostración del funcionamiento de online juego de blackjack
 
 -----
 
-Implement the game widget (English version) on a page of your website:
+### [Example](https://casinoduende.com/en/blackjack/)
+
+The example of the widget in a web page 
+
+### [Ejemplo](https://casinoduende.com/blackjack/)
+
+El ejemplo del widget en una pagana web
+
+-----
+
+Add this widget to your gaming or entertainment website:
 
 ```
 <iframe id="iframe" tabindex="0" frameborder="0" scrolling="no" allowfullscreen="" src="https://duendecasino.github.io/blackjack/game.html" style="border: none; width: 100%; height: 680px;"></iframe>
 ```
 
-Implementar el widget de juego (Versión español) en una pagina de tu sitio web:
+Añade este widget a tu sitio web de juegos o de entretenimiento:
 
 ```
 <iframe id="iframe" tabindex="0" frameborder="0" scrolling="no" allowfullscreen="" src="https://duendecasino.github.io/blackjack/juego.html" style="border: none; width: 100%; height: 680px;"></iframe>
