@@ -32,13 +32,13 @@ El ejemplo del widget en una pagana web
 
 -----
 
-Add this widget to your gaming or entertainment website:
+Add this widget to your online gambling or entertainment website:
 
 ```
 <iframe id="iframe" tabindex="0" frameborder="0" scrolling="no" allowfullscreen="" src="https://duendecasino.github.io/blackjack/game.html" style="border: none; width: 100%; height: 680px;"></iframe>
 ```
 
-Añade este widget a tu sitio web de juegos o de entretenimiento:
+Añade este widget a tu sitio web de juegos de azar online o de entretenimiento:
 
 ```
 <iframe id="iframe" tabindex="0" frameborder="0" scrolling="no" allowfullscreen="" src="https://duendecasino.github.io/blackjack/juego.html" style="border: none; width: 100%; height: 680px;"></iframe>
